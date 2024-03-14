@@ -1,0 +1,34 @@
+C:\Users\Юзер\OneDrive\Робочий стіл\дискретна математика\MiaLukashykLab02\MiaLukashykLab02\obj\Debug\net6.0-windows\MiaLukashykLab02.Form1.resources
+C:\Users\Юзер\OneDrive\Робочий стіл\дискретна математика\MiaLukashykLab02\MiaLukashykLab02\obj\Debug\net6.0-windows\MiaLukashykLab02.csproj.GenerateResource.cache
+C:\Users\Юзер\OneDrive\Робочий стіл\дискретна математика\MiaLukashykLab02\MiaLukashykLab02\obj\Debug\net6.0-windows\MiaLukashykLab02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Юзер\OneDrive\Робочий стіл\дискретна математика\MiaLukashykLab02\MiaLukashykLab02\obj\Debug\net6.0-windows\MiaLukashykLab02.AssemblyInfoInputs.cache
+C:\Users\Юзер\OneDrive\Робочий стіл\дискретна математика\MiaLukashykLab02\MiaLukashykLab02\obj\Debug\net6.0-windows\MiaLukashykLab02.AssemblyInfo.cs
+C:\Users\Юзер\OneDrive\Робочий стіл\дискретна математика\MiaLukashykLab02\MiaLukashykLab02\obj\Debug\net6.0-windows\MiaLukashykLab02.csproj.CoreCompileInputs.cache
+C:\Users\Юзер\OneDrive\Робочий стіл\дискретна математика\MiaLukashykLab02\MiaLukashykLab02\bin\Debug\net6.0-windows\MiaLukashykLab02.exe
+C:\Users\Юзер\OneDrive\Робочий стіл\дискретна математика\MiaLukashykLab02\MiaLukashykLab02\bin\Debug\net6.0-windows\MiaLukashykLab02.deps.json
+C:\Users\Юзер\OneDrive\Робочий стіл\дискретна математика\MiaLukashykLab02\MiaLukashykLab02\bin\Debug\net6.0-windows\MiaLukashykLab02.runtimeconfig.json
+C:\Users\Юзер\OneDrive\Робочий стіл\дискретна математика\MiaLukashykLab02\MiaLukashykLab02\bin\Debug\net6.0-windows\MiaLukashykLab02.dll
+C:\Users\Юзер\OneDrive\Робочий стіл\дискретна математика\MiaLukashykLab02\MiaLukashykLab02\bin\Debug\net6.0-windows\MiaLukashykLab02.pdb
+C:\Users\Юзер\OneDrive\Робочий стіл\дискретна математика\MiaLukashykLab02\MiaLukashykLab02\obj\Debug\net6.0-windows\MiaLukashykLab02.dll
+C:\Users\Юзер\OneDrive\Робочий стіл\дискретна математика\MiaLukashykLab02\MiaLukashykLab02\obj\Debug\net6.0-windows\refint\MiaLukashykLab02.dll
+C:\Users\Юзер\OneDrive\Робочий стіл\дискретна математика\MiaLukashykLab02\MiaLukashykLab02\obj\Debug\net6.0-windows\MiaLukashykLab02.pdb
+C:\Users\Юзер\OneDrive\Робочий стіл\дискретна математика\MiaLukashykLab02\MiaLukashykLab02\obj\Debug\net6.0-windows\MiaLukashykLab02.genruntimeconfig.cache
+C:\Users\Юзер\OneDrive\Робочий стіл\дискретна математика\MiaLukashykLab02\MiaLukashykLab02\obj\Debug\net6.0-windows\ref\MiaLukashykLab02.dll
+C:\Users\Юзер\OneDrive\Робочий стіл\дискретна математика\MiaLukashykLab02\MiaLukashykLab02\obj\Debug\net6.0-windows\MiaLukashykLab02.Properties.Resources.resources
+C:\Users\Юзер\OneDrive\Робочий стіл\MiaLukashykLab02\MiaLukashykLab02\bin\Debug\net6.0-windows\MiaLukashykLab02.exe
+C:\Users\Юзер\OneDrive\Робочий стіл\MiaLukashykLab02\MiaLukashykLab02\bin\Debug\net6.0-windows\MiaLukashykLab02.deps.json
+C:\Users\Юзер\OneDrive\Робочий стіл\MiaLukashykLab02\MiaLukashykLab02\bin\Debug\net6.0-windows\MiaLukashykLab02.runtimeconfig.json
+C:\Users\Юзер\OneDrive\Робочий стіл\MiaLukashykLab02\MiaLukashykLab02\bin\Debug\net6.0-windows\MiaLukashykLab02.dll
+C:\Users\Юзер\OneDrive\Робочий стіл\MiaLukashykLab02\MiaLukashykLab02\bin\Debug\net6.0-windows\MiaLukashykLab02.pdb
+C:\Users\Юзер\OneDrive\Робочий стіл\MiaLukashykLab02\MiaLukashykLab02\obj\Debug\net6.0-windows\MiaLukashykLab02.Form1.resources
+C:\Users\Юзер\OneDrive\Робочий стіл\MiaLukashykLab02\MiaLukashykLab02\obj\Debug\net6.0-windows\MiaLukashykLab02.Properties.Resources.resources
+C:\Users\Юзер\OneDrive\Робочий стіл\MiaLukashykLab02\MiaLukashykLab02\obj\Debug\net6.0-windows\MiaLukashykLab02.csproj.GenerateResource.cache
+C:\Users\Юзер\OneDrive\Робочий стіл\MiaLukashykLab02\MiaLukashykLab02\obj\Debug\net6.0-windows\MiaLukashykLab02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Юзер\OneDrive\Робочий стіл\MiaLukashykLab02\MiaLukashykLab02\obj\Debug\net6.0-windows\MiaLukashykLab02.AssemblyInfoInputs.cache
+C:\Users\Юзер\OneDrive\Робочий стіл\MiaLukashykLab02\MiaLukashykLab02\obj\Debug\net6.0-windows\MiaLukashykLab02.AssemblyInfo.cs
+C:\Users\Юзер\OneDrive\Робочий стіл\MiaLukashykLab02\MiaLukashykLab02\obj\Debug\net6.0-windows\MiaLukashykLab02.csproj.CoreCompileInputs.cache
+C:\Users\Юзер\OneDrive\Робочий стіл\MiaLukashykLab02\MiaLukashykLab02\obj\Debug\net6.0-windows\MiaLukashykLab02.dll
+C:\Users\Юзер\OneDrive\Робочий стіл\MiaLukashykLab02\MiaLukashykLab02\obj\Debug\net6.0-windows\refint\MiaLukashykLab02.dll
+C:\Users\Юзер\OneDrive\Робочий стіл\MiaLukashykLab02\MiaLukashykLab02\obj\Debug\net6.0-windows\MiaLukashykLab02.pdb
+C:\Users\Юзер\OneDrive\Робочий стіл\MiaLukashykLab02\MiaLukashykLab02\obj\Debug\net6.0-windows\MiaLukashykLab02.genruntimeconfig.cache
+C:\Users\Юзер\OneDrive\Робочий стіл\MiaLukashykLab02\MiaLukashykLab02\obj\Debug\net6.0-windows\ref\MiaLukashykLab02.dll
